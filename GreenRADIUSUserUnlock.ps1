@@ -1,3 +1,6 @@
+#If you use GreenRADIUS as a product and you have the authentication key automatically lock, really the only way to unlock it before your specified timeout is the following script. I did not write this one alone, GPT did help me but it works. I use it 
+#all the time.
+
 Add-Type -AssemblyName PresentationFramework
 Add-Type -AssemblyName PresentationCore
 Add-Type -AssemblyName WindowsBase
